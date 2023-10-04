@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="250.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1">
+    <style>
+        -fx-background-color: #A1A0A0FF;
+    </style>
+    <children>
+        <Button layoutX="25.0" layoutY="125.0" prefHeight="45" prefWidth="45" style="-fx-shape: 'M 50,50 m -50,0 a 50,50 0 1,0 100,0 a 50,50 0 1,0 -100,0';-fx-text-fill: black;-fx-font-size: 20px; -fx-font-family: 'Pacifico';-fx-background-color: red;" text="1" />
+        <Button layoutX="75.0" layoutY="125.0" prefHeight="45" prefWidth="45" style="-fx-shape: 'M 50,50 m -50,0 a 50,50 0 1,0 100,0 a 50,50 0 1,0 -100,0';-fx-text-fill: black;-fx-font-size: 20px; -fx-font-family: 'Pacifico';-fx-background-color: red;" text="2" />
+        <Button layoutX="125.0" layoutY="125.0" prefHeight="45" prefWidth="45" style="-fx-shape: 'M 50,50 m -50,0 a 50,50 0 1,0 100,0 a 50,50 0 1,0 -100,0';-fx-text-fill: black;-fx-font-size: 20px; -fx-font-family: 'Pacifico';-fx-background-color: red;" text="3" />
+        <Button layoutX="175.0" layoutY="125.0" prefHeight="45" prefWidth="45" style="-fx-shape: 'M 50,50 m -50,0 a 50,50 0 1,0 100,0 a 50,50 0 1,0 -100,0';-fx-text-fill: black;-fx-font-size: 20px; -fx-font-family: 'Pacifico';-fx-background-color: red;" text="+" />
+        <Button layoutX="25.0" layoutY="175.0" prefHeight="45" prefWidth="45" style="-fx-shape: 'M 50,50 m -50,0 a 50,50 0 1,0 100,0 a 50,50 0 1,0 -100,0';-fx-text-fill: black;-fx-font-size: 20px; -fx-font-family: 'Pacifico';-fx-background-color: red;" text="4" />
+        <Button layoutX="75.0" layoutY="175.0" prefHeight="45" prefWidth="45" style="-fx-shape: 'M 50,50 m -50,0 a 50,50 0 1,0 100,0 a 50,50 0 1,0 -100,0';-fx-text-fill: black;-fx-font-size: 20px; -fx-font-family: 'Pacifico';-fx-background-color: red;" text="5" />
+        <Button layoutX="125.0" layoutY="175.0" prefHeight="45" prefWidth="45" style="-fx-shape: 'M 50,50 m -50,0 a 50,50 0 1,0 100,0 a 50,50 0 1,0 -100,0';-fx-text-fill: black;-fx-font-size: 20px; -fx-font-family: 'Pacifico';-fx-background-color: red;" text="6" />
+        <Button layoutX="175.0" layoutY="175.0" prefHeight="45" prefWidth="45" style="-fx-shape: 'M 50,50 m -50,0 a 50,50 0 1,0 100,0 a 50,50 0 1,0 -100,0';-fx-text-fill: black;-fx-font-size: 20px; -fx-font-family: 'Pacifico';-fx-background-color: red;" text="-" />
+        <Button layoutX="25.0" layoutY="225.0" prefHeight="45" prefWidth="45" style="-fx-shape: 'M 50,50 m -50,0 a 50,50 0 1,0 100,0 a 50,50 0 1,0 -100,0';-fx-text-fill: black;-fx-font-size: 20px; -fx-font-family: 'Pacifico';-fx-background-color: red;" text="7" />
+        <Button layoutX="75.0" layoutY="225.0" prefHeight="45" prefWidth="45" style="-fx-shape: 'M 50,50 m -50,0 a 50,50 0 1,0 100,0 a 50,50 0 1,0 -100,0';-fx-text-fill: black;-fx-font-size: 20px; -fx-font-family: 'Pacifico';-fx-background-color: red;" text="8" />
+        <Button layoutX="125.0" layoutY="225.0" prefHeight="45" prefWidth="45" style="-fx-shape: 'M 50,50 m -50,0 a 50,50 0 1,0 100,0 a 50,50 0 1,0 -100,0';-fx-text-fill: black;-fx-font-size: 20px; -fx-font-family: 'Pacifico';-fx-background-color: red;" text="9" />
+        <Button layoutX="175.0" layoutY="225.0" prefHeight="45" prefWidth="45" style="-fx-shape: 'M 50,50 m -50,0 a 50,50 0 1,0 100,0 a 50,50 0 1,0 -100,0';-fx-text-fill: black;-fx-font-size: 20px; -fx-font-family: 'Pacifico';-fx-background-color: red;" text="x" />
+        <Button layoutX="25.0" layoutY="275.0" prefHeight="45" prefWidth="45" style="-fx-shape: 'M 50,50 m -50,0 a 50,50 0 1,0 100,0 a 50,50 0 1,0 -100,0';-fx-text-fill: black;-fx-font-size: 20px; -fx-font-family: 'Pacifico';-fx-background-color: red;" text="C" />
+        <Button layoutX="75.0" layoutY="275.0" prefHeight="45" prefWidth="45" style="-fx-shape: 'M 50,50 m -50,0 a 50,50 0 1,0 100,0 a 50,50 0 1,0 -100,0';-fx-text-fill: black;-fx-font-size: 20px; -fx-font-family: 'Pacifico';-fx-background-color: red;" text="0" />
+        <Button layoutX="125.0" layoutY="275.0" prefHeight="45" prefWidth="45" style="-fx-shape: 'M 50,50 m -50,0 a 50,50 0 1,0 100,0 a 50,50 0 1,0 -100,0';-fx-text-fill: black;-fx-font-size: 20px; -fx-font-family: 'Pacifico';-fx-background-color: red;" text="=" />
+        <Button layoutX="175.0" layoutY="275.0" prefHeight="45" prefWidth="45" style="-fx-shape: 'M 50,50 m -50,0 a 50,50 0 1,0 100,0 a 50,50 0 1,0 -100,0';-fx-text-fill: black;-fx-font-size: 20px; -fx-font-family: 'Pacifico';-fx-background-color: red;" text="/" />
+
+
+
+        <TextArea layoutX="25.0" layoutY="25.0" prefHeight="50.0" prefWidth="200.0" style="-fx-text-fill: black; -fx-control-inner-background: red;" />
+        <Label layoutX="62.5" layoutY="85.0" prefHeight="20.0" prefWidth="125.0" style="-fx-text-fill: black;-fx-font-size: 15px; -fx-font-style: italic; -fx-font-family: 'Pacifico';-fx-background-color: red;" text="MartoCalculator 🖩" />
+    </children>
+</Pane>
