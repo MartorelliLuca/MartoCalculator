@@ -6,7 +6,7 @@ import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 
 public class CalculatorController {
-    private Label       label0;
+    private Label label0;
     public Button button0;
     public Button button1, button2, button3;
     public Button button4, button5, button6;
